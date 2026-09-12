@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "next build",
-    "start": "node hostlittle-compat-start.mjs"
+    "start": "next start"
   },
   "dependencies": {
     "next": "16.2.12",
